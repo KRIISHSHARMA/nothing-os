@@ -4,6 +4,7 @@
 
 # Prerequisite to Install Stock OS on Nothing Phone (1)
 - Download the latest Platform tool: [Download](https://developer.android.com/studio/releases/platform-tools)
+- Download Stock Nothing OS 1.1.4 Firmware (Global) : [Download](https://android.googleapis.com/packages/ota-api/package/54b8dbd1c303be00ef156c602b756c76d8d9b6e1.zip)
 - Clone / Download the boot.img , vendor_boot.img , Stock Nothing OS 1.1.4 Firmware in the same directory you have extracted above adb files
 
 # Reverting Back To Nothing OS 
