@@ -1,6 +1,7 @@
 # System Info 
 - ubuntu 24.04.1 
-- Nothing Phone 1 (Global) 
+- Nothing Phone 1 (Global)
+- For Windows OS or Europe based Nothing phones refer to this [blog](https://techibee.in/how-to-install-stock-nothing-os-on-nothing-phone-1-if-running-custom-rom/)
 
 # Prerequisite to Install Stock OS on Nothing Phone (1)
 - Download the latest Platform tool: [Download](https://developer.android.com/studio/releases/platform-tools)
